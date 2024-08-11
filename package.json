@@ -1,5 +1,5 @@
 {
-  "name": "sage",
+  "name": "template",
   "private": true,
   "browserslist": [
     "extends @roots/browserslist-config"
