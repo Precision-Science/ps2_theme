@@ -1,5 +1,5 @@
 {
-  "name": "130public/template",
+  "name": "Precision-Science/ps2_theme",
   "type": "wordpress-theme",
   "license": "MIT",
   "description": "WordPress starter theme with a modern development workflow",
@@ -15,7 +15,7 @@
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/jasonjgeiger/template/issues"
+    "issues": "https://github.com/Precision-Science/ps2_theme/issues"
   },
   "autoload": {
     "psr-4": {
